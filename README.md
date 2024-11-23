@@ -73,6 +73,10 @@ To run the program, follow these steps:
 
 ---
 
+## Sample Output
+
+### Step 1: Menu Selection
+
 Welcome to the variety food truck.
 
 From which menu would you like to order? 
@@ -113,6 +117,6 @@ Total Price: $2.97
 
 Acknowledgements
 
-Starter code provided by the Module 2 Challenge instructions.
-Guidance and support from course materials.
-Shaw, Zed A. Learn Python the Hard Way. 3rd ed., Addison-Wesley, 2024.
+- Starter code provided by the Module 2 Challenge instructions.
+- Guidance and support from course materials.
+- Shaw, Zed A. Learn Python the Hard Way. 3rd ed., Addison-Wesley, 2024.
